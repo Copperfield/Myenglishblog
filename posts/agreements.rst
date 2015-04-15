@@ -2,7 +2,7 @@
 .. slug: agreements
 .. date: 2015-04-15 21:18:18 UTC+02:00
 .. tags: 
-.. category: Expressions
+.. category: Expression
 .. link: 
 .. description: 
 .. type: text

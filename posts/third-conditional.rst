@@ -2,13 +2,10 @@
 .. slug: third-conditional
 .. date: 2015-04-10 21:36:54 UTC+02:00
 .. tags: 
-.. category: 
+.. category: Grammar
 .. link: 
 .. description: 
 .. type: text
-
-Third conditional
-=================
 
 .. Class:: label label-default
 

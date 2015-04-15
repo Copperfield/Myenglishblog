@@ -2,7 +2,7 @@
 .. slug: presentation
 .. date: 2015-04-13 20:54:08 UTC+02:00
 .. tags: 
-.. category: Expresion
+.. category: Expression
 .. link: 
 .. description: 
 .. type: text

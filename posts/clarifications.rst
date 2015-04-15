@@ -2,7 +2,7 @@
 .. slug: clarifications
 .. date: 2015-04-15 20:55:50 UTC+02:00
 .. tags: 
-.. category: Expressions
+.. category: Expression
 .. link: 
 .. description: 
 .. type: text
