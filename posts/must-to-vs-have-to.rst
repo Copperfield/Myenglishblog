@@ -7,9 +7,6 @@
 .. description: 
 .. type: text
 
-Have to VS must to
-==================
-
 .. class:: label label-default
 
 Have to VS must to

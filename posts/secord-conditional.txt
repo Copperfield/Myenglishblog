@@ -23,3 +23,9 @@ Second conditional
 .. admonition:: Example
 
     I would have travel around the world if I won the lottery
+
+.. admonition:: Trick
+
+    I pass my interview because because I spoke to Peter.
+    I wouldn't have passed my interview if hadn't spoken to Peter
+
