@@ -1,0 +1,10 @@
+.. title: presenting a topic
+.. slug: presentation
+.. date: 2015-04-13 20:54:08 UTC+02:00
+.. tags: 
+.. category: Expresion
+.. link: 
+.. description: 
+.. type: text
+
+"What I would like to talk about this morning is..."

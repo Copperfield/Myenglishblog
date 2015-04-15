@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>My English Site</title><link>http://localhost:8000</link><description>My notes about english learning</description><atom:link href="http://localhost:8000/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 10 Apr 2015 20:08:11 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Third conditional</title><link>http://localhost:8000/posts/third-conditional.html</link><dc:creator>David Garcia Guerrero</dc:creator><description>&lt;div&gt;&lt;p class="label label-default"&gt;Third conditional&lt;/p&gt;
+&lt;p&gt;We use when we want expressed &lt;strong&gt;hypotetical&lt;/strong&gt; situations
+in the past, &lt;strong&gt;regrets&lt;/strong&gt;, &lt;strong&gt;gratefulness&lt;/strong&gt; or &lt;strong&gt;reproach&lt;/strong&gt;.&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="61%"&gt;
+&lt;col width="39%"&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;Result&lt;/th&gt;
+&lt;th class="head"&gt;if conditional&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;would have/ wouldn't have + Past participle&lt;/td&gt;
+&lt;td&gt;had/hadn't + Past Participle&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class="danger"&gt;
+&lt;p class="first admonition-title"&gt;!DANGER!&lt;/p&gt;
+&lt;p class="last"&gt;Never will/would with if&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="admonition-regrets admonition"&gt;
+&lt;p class="first admonition-title"&gt;Regrets&lt;/p&gt;
+&lt;p class="last"&gt;I wouldn't have pass the exam if I had studied&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="admonition-gratefulness admonition"&gt;
+&lt;p class="first admonition-title"&gt;Gratefulness&lt;/p&gt;
+&lt;p class="last"&gt;I wouldn't have pass the exam if I hadn't helped me&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="admonition-reproach admonition"&gt;
+&lt;p class="first admonition-title"&gt;Reproach&lt;/p&gt;
+&lt;p class="last"&gt;You would have pass the exam if you had studied more&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><guid>http://localhost:8000/posts/third-conditional.html</guid><pubDate>Fri, 10 Apr 2015 19:36:54 GMT</pubDate></item><item><title>must-to-VS-have-to</title><link>http://localhost:8000/posts/must-to-vs-have-to.html</link><dc:creator>David Garcia Guerrero</dc:creator><description>&lt;div&gt;&lt;p class="label label-default"&gt;Have to VS must to&lt;/p&gt;
+&lt;p&gt;Both expressed * &lt;em&gt;obligation*&lt;/em&gt;. We use &lt;strong&gt;must to&lt;/strong&gt;
+when we think anything is very important. It is
+a personal belief.&lt;/p&gt;
+&lt;p class="well"&gt;I must to study more&lt;/p&gt;
+&lt;p&gt;We use have to when we wont to do anything but
+that isn't a personal belief. Someone or something
+forces us.&lt;/p&gt;
+&lt;p class="well"&gt;I have to study more&lt;/p&gt;
+&lt;p&gt;We wont but We study in order to pass te examan.&lt;/p&gt;&lt;/div&gt;</description><guid>http://localhost:8000/posts/must-to-vs-have-to.html</guid><pubDate>Fri, 10 Apr 2015 19:10:08 GMT</pubDate></item><item><title>Meet someone</title><link>http://localhost:8000/posts/meet-someone.html</link><dc:creator>David Garcia Guerrero</dc:creator><description>&lt;div&gt;&lt;p class="label label-default"&gt;Meet someone&lt;/p&gt;
+&lt;table class="docutils field-list" frame="void" rules="none"&gt;
+&lt;col class="field-name"&gt;
+&lt;col class="field-body"&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;Primera vez:&lt;/th&gt;&lt;td class="field-body"&gt;To meet + persona&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name" colspan="2"&gt;Desde hace tiempo:&lt;/th&gt;&lt;/tr&gt;
+&lt;tr class="field"&gt;&lt;td&gt; &lt;/td&gt;&lt;td class="field-body"&gt;To know + persona&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;De oidas:&lt;/th&gt;&lt;td class="field-body"&gt;To know of before/after + informacion&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</description><guid>http://localhost:8000/posts/meet-someone.html</guid><pubDate>Fri, 10 Apr 2015 18:58:40 GMT</pubDate></item><item><title>Likes-dislikes</title><link>http://localhost:8000/posts/likes-dislikes.html</link><dc:creator>David Garcia Guerrero</dc:creator><description>&lt;div&gt;&lt;p class="label label-default"&gt;Likes and dislikes&lt;/p&gt;
+&lt;table class="docutils field-list" frame="void" rules="none"&gt;
+&lt;col class="field-name"&gt;
+&lt;col class="field-body"&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;Me gusta:&lt;/th&gt;&lt;td class="field-body"&gt;I like + verbo ing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;Me encanta:&lt;/th&gt;&lt;td class="field-body"&gt;I love + verbo ing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;No me gusta:&lt;/th&gt;&lt;td class="field-body"&gt;I not very keen &lt;strong&gt;on&lt;/strong&gt; + verbo ing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;odio:&lt;/th&gt;&lt;td class="field-body"&gt;I hate + verbo ing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</description><guid>http://localhost:8000/posts/likes-dislikes.html</guid><pubDate>Fri, 10 Apr 2015 13:08:59 GMT</pubDate></item></channel></rss>

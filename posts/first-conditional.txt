@@ -1,0 +1,23 @@
+.. title: First conditional
+.. slug: first-conditional
+.. date: 2015-04-13 21:02:49 UTC+02:00
+.. tags: 
+.. category: Grammar
+.. link: 
+.. description: 
+.. type: text
+
+We user when happen 100%
+
++----------------------------------+----------------+
+| Result                           | if clause      |
++==================================+================+
+| (will / can / may /must) + verbo | present simple |
++----------------------------------+----------------+
+
+.. DANGER::
+     Never will/would with if
+
+.. admonition:: Example
+
+    I wil stay at home if rains today

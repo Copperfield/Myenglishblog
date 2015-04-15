@@ -1,0 +1,20 @@
+.. title: Likes-dislikes
+.. slug: likes-dislikes
+.. date: 2015-04-10 15:08:59 UTC+02:00
+.. tags: 
+.. category: Expressions
+.. link: 
+.. description: Expresion you use when you talk
+.. type: text
+
+Likes dislikes
+==============
+
+.. class:: label label-default
+
+Likes and dislikes
+
+:Me gusta: I like + verbo ing
+:Me encanta: I love + verbo ing
+:No me gusta: I not very keen **on** + verbo ing
+:odio: I hate + verbo ing

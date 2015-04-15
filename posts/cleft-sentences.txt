@@ -1,0 +1,36 @@
+.. title: Cleft sentences
+.. slug: cleft-sentences
+.. date: 2015-04-13 21:27:23 UTC+02:00
+.. tags: 
+.. category: Grammar
+.. link: 
+.. description: 
+.. type: text
+
+
+.. Class:: label label-default
+
+Cleft sentences
+
+We use cleft sentences to emphasize any part of the sentence.
+
+.. admonition:: Focus in person
+
+    The person who + information + (is/was) + person
+
+.. admonition:: Focus in things
+
+    The thing than + information + (is/was) + thing
+
+.. admonition:: Focus in place
+
+    The place where + information + (is/was) + in place
+
+.. admonition:: Focus in reason
+
+    The reason why + information + (is/was) + because + reason
+
+.. admonition:: Focus in the verb
+
+    What + subject + (do/does/did)+ moment + (is/was) + (verb with to)
+

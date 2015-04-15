@@ -1,0 +1,25 @@
+.. title: Second conditional
+.. slug: secord-conditional
+.. date: 2015-04-13 21:15:24 UTC+02:00
+.. tags: 
+.. category: Grammar
+.. link: 
+.. description: 
+.. type: text
+
+.. Class:: label label-default
+
+Second conditional
+
+.. DANGER::
+    Incomplete post. I going to complete this post as soon as posible
+
++---------------------------------------------+-----------------------------+
+| Result                                      | if conditional              |
++=============================================+=============================+
+| (would / could / might) + verbo             | Past simple                 |
++---------------------------------------------+-----------------------------+
+
+.. admonition:: Example
+
+    I would have travel around the world if I won the lottery
